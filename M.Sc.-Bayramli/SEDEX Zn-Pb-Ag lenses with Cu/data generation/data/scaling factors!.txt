@@ -1,0 +1,17 @@
+section 0
+Xmin=652
+Zmax=-181
+
+Xmax=898
+Zmin=-1228
+
+section 4000
+Xmin=764
+Zmax=-161
+
+Xmax=726
+Zmin=-1245
+
+scaling factors
+for X=1.2369
+for Z=0.986345

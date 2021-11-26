@@ -1,0 +1,4 @@
+-dataset of reconstruction certainly needs attention especially on the intrusion side
+- another problem is the too much point cloud created by boreholes forcing data filtering to be done. for example in this dataset the most problematic surface was footwall_quartzwacke (created circular nodes in the model - some datas are deleted to overcome the problem)
+this problem mainly arised on the boreholes which crossed the intrusion of talvivaarashales and suddenly underneath of intrusion it meets with footwall_quartzwacke and creates unnecessary data around the center of the unit
+-

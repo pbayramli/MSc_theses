@@ -1,0 +1,22 @@
+***section a
+
+xmin = 424
+zmax = -226
+
+xmax = 1588
+ymin = -1164
+
+
+
+***section b
+
+xmin = 504
+zmax = - 225
+
+xmax = 1443
+ymin = -1150
+
+scale factors
+
+xdir = 1.100485
+zdir = 1.01217

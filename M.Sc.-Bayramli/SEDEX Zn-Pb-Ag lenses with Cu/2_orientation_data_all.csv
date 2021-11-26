@@ -1,0 +1,132 @@
+X,Y,Z,dip,azimuth,polarity,formation,section
+0,0,-32,10,90,1,topo,Mt Isa
+123,0,-38,10,90,1,topo,Mt Isa
+209,0,-46,-10,90,1,topo,Mt Isa
+273,0,-37,-10,90,1,topo,Mt Isa
+338,0,-32,-20,90,1,topo,Mt Isa
+441,0,-25,-30,90,1,topo,Mt Isa
+526,0,0,0,90,1,topo,Mt Isa
+619,0,-22,10,90,1,topo,Mt Isa
+756,0,-40,20,90,1,topo,Mt Isa
+898,0,-53,30,90,1,topo,Mt Isa
+59,0,-42,-70,90,1,easterncreekvolcanics,Mt Isa
+37,0,-137,-80,90,1,easterncreekvolcanics,Mt Isa
+21,0,-221,-70,90,1,easterncreekvolcanics,Mt Isa
+49,0,-375,-120,90,1,easterncreekvolcanics,Mt Isa
+93,0,-523,-100,90,1,easterncreekvolcanics,Mt Isa
+84,0,-680,-80,90,1,easterncreekvolcanics,Mt Isa
+121,0,-826,-140,90,1,easterncreekvolcanics,Mt Isa
+244,0,-973,-140,90,1,easterncreekvolcanics,Mt Isa
+309,0,-1047,-170,90,1,easterncreekvolcanics,Mt Isa
+515,0,-1106,-170,90,1,easterncreekvolcanics,Mt Isa
+642,0,-1190,-120,90,1,easterncreekvolcanics,Mt Isa
+670,0,-1228,-100,90,1,easterncreekvolcanics,Mt Isa
+343,0,-31,-80,90,1,spearsiltstone,Mt Isa
+295,0,-131,-70,90,1,spearsiltstone,Mt Isa
+279,0,-201,-60,90,1,spearsiltstone,Mt Isa
+242,0,-273,-120,90,1,spearsiltstone,Mt Isa
+199,0,-392,-50,90,1,spearsiltstone,Mt Isa
+146,0,-523,-80,90,1,spearsiltstone,Mt Isa
+98,0,-628,-70,90,1,spearsiltstone,Mt Isa
+82,0,-448,140,90,1,silicadolomitealteration,Mt Isa
+105,0,-448,-150,90,1,silicadolomitealteration,Mt Isa
+107,0,-505,-120,90,1,silicadolomitealteration,Mt Isa
+129,0,-522,150,90,1,silicadolomitealteration,Mt Isa
+143,0,-436,130,90,1,silicadolomitealteration,Mt Isa
+180,0,-291,140,90,1,silicadolomitealteration,Mt Isa
+224,0,-185,170,90,1,silicadolomitealteration,Mt Isa
+242,0,-244,-120,90,1,silicadolomitealteration,Mt Isa
+259,0,-230,130,90,1,silicadolomitealteration,Mt Isa
+281,0,-192,140,90,1,silicadolomitealteration,Mt Isa
+299,0,-207,-60,90,1,silicadolomitealteration,Mt Isa
+267,0,-304,-70,90,1,silicadolomitealteration,Mt Isa
+238,0,-370,-80,90,1,silicadolomitealteration,Mt Isa
+202,0,-462,-110,90,1,silicadolomitealteration,Mt Isa
+196,0,-533,-120,90,1,silicadolomitealteration,Mt Isa
+241,0,-584,-120,90,1,silicadolomitealteration,Mt Isa
+267,0,-619,160,90,1,silicadolomitealteration,Mt Isa
+289,0,-653,-80,90,1,silicadolomitealteration,Mt Isa
+273,0,-706,-130,90,1,silicadolomitealteration,Mt Isa
+334,0,-705,-160,90,1,silicadolomitealteration,Mt Isa
+382,0,-709,-80,90,1,silicadolomitealteration,Mt Isa
+373,0,-773,-50,90,1,silicadolomitealteration,Mt Isa
+357,0,-822,-70,90,1,silicadolomitealteration,Mt Isa
+386,0,-837,-140,90,1,silicadolomitealteration,Mt Isa
+383,0,-916,-60,90,1,silicadolomitealteration,Mt Isa
+350,0,-969,-70,90,1,silicadolomitealteration,Mt Isa
+347,0,-1022,150,90,1,silicadolomitealteration,Mt Isa
+470,0,-938,160,90,1,silicadolomitealteration,Mt Isa
+486,0,-979,-170,90,1,silicadolomitealteration,Mt Isa
+547,0,-916,130,90,1,silicadolomitealteration,Mt Isa
+636,0,-673,150,90,1,silicadolomitealteration,Mt Isa
+699,0,-627,-150,90,1,silicadolomitealteration,Mt Isa
+719,0,-713,-100,90,1,silicadolomitealteration,Mt Isa
+776,0,-643,130,90,1,silicadolomitealteration,Mt Isa
+786,0,-682,-80,90,1,silicadolomitealteration,Mt Isa
+737,0,-780,-50,90,1,silicadolomitealteration,Mt Isa
+704,0,-883,-80,90,1,silicadolomitealteration,Mt Isa
+707,0,-993,-70,90,1,silicadolomitealteration,Mt Isa
+654,0,-1101,-70,90,1,silicadolomitealteration,Mt Isa
+654,0,-1151,-70,90,1,silicadolomitealteration,Mt Isa
+3.7107,2000,-13.80883,-10,90,1,topo,Hilton
+227.5896,2000,-5.91807,-10,90,1,topo,Hilton
+351.2796,2000,-10.849795,10,90,1,topo,Hilton
+460.1268,2000,-8.877105,10,90,1,topo,Hilton
+597.4227,2000,-19.7269,10,90,1,topo,Hilton
+795.3267,2000,-7.89076,10,90,1,topo,Hilton
+896.7525,2000,-7.89076,-10,90,1,topo,Hilton
+285.7239,2000,-12.822485,-50,90,1,easterncreekvolcanics,Hilton
+269.6442,2000,-86.79836,-50,90,1,easterncreekvolcanics,Hilton
+194.1933,2000,-222.91397,-50,90,1,easterncreekvolcanics,Hilton
+186.7719,2000,-285.053705,-40,90,1,easterncreekvolcanics,Hilton
+123.69,2000,-465.55484,-40,90,1,easterncreekvolcanics,Hilton
+94.0044,2000,-587.86162,-30,90,1,easterncreekvolcanics,Hilton
+37.107,2000,-704.25033,-30,90,1,easterncreekvolcanics,Hilton
+2.4738,2000,-765.40372,-30,90,1,easterncreekvolcanics,Hilton
+474.9696,2000,-15.78152,-50,90,3,spearsiltstone,Hilton
+434.1519,2000,-92.71643,-50,90,3,spearsiltstone,Hilton
+377.2545,2000,-194.309965,-50,90,3,spearsiltstone,Hilton
+294.3822,2000,-320.562125,-50,90,3,spearsiltstone,Hilton
+242.4324,2000,-382.70186,-50,90,3,spearsiltstone,Hilton
+211.5099,2000,-463.58215,-50,90,3,spearsiltstone,Hilton
+150.9018,2000,-593.77969,-50,90,3,spearsiltstone,Hilton
+115.0317,2000,-678.60536,-50,90,3,spearsiltstone,Hilton
+69.2664,2000,-759.48565,-50,90,3,spearsiltstone,Hilton
+40.8177,2000,-832.47518,-50,90,3,spearsiltstone,Hilton
+16.0797,2000,-928.150645,-50,90,3,spearsiltstone,Hilton
+8.6583,2000,-993.249415,-50,90,3,spearsiltstone,Hilton
+0,2000,-535.585335,80,90,1,silicadolomitealteration,Hilton
+42.0546,2000,-526.70823,80,90,1,silicadolomitealteration,Hilton
+94.0044,2000,-532.6263,80,90,1,silicadolomitealteration,Hilton
+113.7948,2000,-600.684105,80,90,1,silicadolomitealteration,Hilton
+110.952,2000,-680.253515,80,90,1,silicadolomitealteration,Hilton
+98.952,2000,-776.253515,80,90,1,silicadolomitealteration,Hilton
+107.6103,2000,-875.87436,80,90,1,silicadolomitealteration,Hilton
+95.2413,2000,-947.877545,80,90,1,silicadolomitealteration,Hilton
+96.4782,2000,-1060.320875,80,90,1,silicadolomitealteration,Hilton
+115.0317,2000,-1189.53207,0,90,1,silicadolomitealteration,Hilton
+129.8745,2000,-1101.747365,-80,90,1,silicadolomitealteration,Hilton
+129.8745,2000,-980.747365,-80,90,1,silicadolomitealteration,Hilton
+143.4804,2000,-863.051875,-80,90,1,silicadolomitealteration,Hilton
+139.7697,2000,-741.73144,-80,90,1,silicadolomitealteration,Hilton
+130.952,2000,-680.253515,-80,90,1,silicadolomitealteration,Hilton
+145.9542,2000,-603.64314,-80,90,1,silicadolomitealteration,Hilton
+116.2686,2000,-467.52753,-80,90,1,silicadolomitealteration,Hilton
+16.0797,2000,-352.125165,-80,90,1,silicadolomitealteration,Hilton
+854.6979,2000,-21.69959,-50,90,2,dolomiticurquhartshale,Hilton
+816.354,2000,-125.265815,-50,90,2,dolomiticurquhartshale,Hilton
+765.6411,2000,-242.64087,-50,90,2,dolomiticurquhartshale,Hilton
+744.6138,2000,-318.589435,-50,90,2,dolomiticurquhartshale,Hilton
+682.7688,2000,-440.896215,-50,90,2,dolomiticurquhartshale,Hilton
+627.1083,2000,-577.99817,-50,90,2,dolomiticurquhartshale,Hilton
+559.0788,2000,-746.663165,-50,90,2,dolomiticurquhartshale,Hilton
+504.6552,2000,-874.888015,-50,90,2,dolomiticurquhartshale,Hilton
+448.9947,2000,-996.20845,-50,90,2,dolomiticurquhartshale,Hilton
+387.1497,2000,-1096.81564,-50,90,2,dolomiticurquhartshale,Hilton
+336.4368,2000,-1190.518415,-50,90,2,dolomiticurquhartshale,Hilton
+320.3571,2000,-1227.999525,-50,90,2,dolomiticurquhartshale,Hilton
+897.9894,2000,-966.6181,-60,90,1,nativebeesiltstone,Hilton
+868.3038,2000,-1029.74418,-60,90,1,nativebeesiltstone,Hilton
+843.5658,2000,-1087.938535,-60,90,1,nativebeesiltstone,Hilton
+828.723,2000,-1156.982685,-60,90,1,nativebeesiltstone,Hilton
+802.7481,2000,-1219.12242,-60,90,1,nativebeesiltstone,Hilton

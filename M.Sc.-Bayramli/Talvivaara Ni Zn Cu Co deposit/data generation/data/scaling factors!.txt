@@ -1,0 +1,5 @@
+xmin = 69
+zmax = -548
+
+xmax = 1949
+zmin = -358

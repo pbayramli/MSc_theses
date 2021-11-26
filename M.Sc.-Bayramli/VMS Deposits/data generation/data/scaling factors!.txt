@@ -1,0 +1,28 @@
+section 9
+Xmin=542
+Zmax=-228
+
+Xmax=1150
+Zmin=-1203
+
+***section 10
+Xmin=528
+Zmax=-227
+
+Xmax=1198
+Zmin=-1198
+
+scaling factors
+for X=0.959933
+for Z=1.004172
+
+***section 12
+Xmin=537
+Zmax=-236
+
+Xmax=1180
+Zmin=-1194
+
+scaling factors
+for X=0.974576
+for Z=1.0075377

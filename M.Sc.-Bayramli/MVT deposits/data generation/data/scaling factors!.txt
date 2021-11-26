@@ -1,0 +1,28 @@
+***section a
+xmin=63
+zmax=-604
+
+xmax=2124
+zmin=-453
+
+***section b
+xmin=61
+zmax=-658
+
+xmax=2117
+zmin=-331
+
+scale factor
+x = 1.0033
+z = 1.3685
+
+***section c
+xmin=62
+zmax=-695
+
+xmax=2112
+zmin=-319
+
+scale factor
+x = 1.005682
+z = 1.420062
